@@ -1,0 +1,24 @@
+{
+  "name": "enthero",
+  "version": "1.0.0",
+  "description": "task",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tushar",
+  "license": "MIT",
+  "dependencies": {
+    "bignumber.js": "^9.0.0",
+    "body-parser": "^1.19.0",
+    "buffer-equal-constant-time": "^1.0.1",
+    "cors": "^2.8.5",
+    "ecdsa-sig-formatter": "^1.0.11",
+    "express": "^4.17.1",
+    "gaxios": "^2.1.0",
+    "google-auth-library": "^0.12.0",
+    "googleapis": "^39.2.0",
+    "json-bigint": "^0.3.0",
+    "mongoose": "^5.7.12"
+  }
+}
