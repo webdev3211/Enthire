@@ -29,8 +29,8 @@ a@gmail.com, b@gmail.com, f@gmail.com
 ```
 
 
-# Screenshot
 
-# Frontend
+
+# Frontend screenshot
 ![alt text](https://i.ibb.co/VQvsZmg/googlecalendar.png)
 
